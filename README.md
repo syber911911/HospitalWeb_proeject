@@ -1,5 +1,5 @@
 # 내 주변 병원, 응급실, AED를 탐색하는
-# Url: https:hospital.jintam.site
+# url: <https://hospital.jintam.site/>
 
 # 기술
 FrontEnd: React.js, Redux, Sass, JavaScript
